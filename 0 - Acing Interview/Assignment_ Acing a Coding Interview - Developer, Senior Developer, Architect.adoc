@@ -1,0 +1,144 @@
+== Objective:
+
+The objective of this assignment is to prepare for a coding interview
+for the positions of the developer, senior developer, or architect. You
+will create a checklist of steps to follow, develop a list of questions
+to ask when faced with a problem and identify top solutions for common
+interview problems.
+
+Instructions:
+
+=== Checklist for Interview Preparation:
+
+* Understand the job requirements and expectations.
+* Review technical concepts, data structures, algorithms, and design
+patterns.
+* Practice coding problems, both algorithmic and system design.
+* Study system design principles, scalability concepts, and distributed
+systems.
+* Schedule mock interviews to simulate real interview scenarios.
+* Review and showcase your past work, highlighting achievements and
+problem-solving skills.
+* Stay updated with the latest industry trends, technologies, and
+frameworks.
+
+=== Questions to Ask for a Problem:
+
+* Choose a problem related to the desired position (developer, senior
+developer, or architect) and create a list of questions to ask when
+faced with that problem. Consider aspects such as edge cases,
+performance optimization, scalability, and trade-offs in design.
+
+=== Top Solutions for Common Interview Problems:
+
+* Research and identify the top solutions for the following common
+interview problems:
+* Binary Search Tree (BST) operations (insertion, deletion, search,
+etc.).
+* Merge Sort or Quick Sort implementation.
+* Finding the longest common substring between two strings.
+* Designing a scalable distributed system architecture.
+* Implementing a priority queue or heap data structure.
+
+=== Checklist for Interview Preparation
+
+* Understand the Job Requirements and Expectations:
+** Read the job description thoroughly to understand the required
+*skills* and qualifications.
+** Research the company culture, values, and projects to align your
+preparation accordingly.
+** Identify the key technologies and programming languages used by the
+company.
+* Review Technical Concepts:
+** *Brush up on fundamental computer science concepts such as data
+structures (arrays, linked lists, stacks, queues, trees, graphs, etc.)
+and algorithms (sorting, searching, dynamic programming, etc.).*
+** Study commonly used algorithms and their time and space complexities.
+** Review object-oriented programming principles and design patterns.
+* Practice Coding Problems:
+** Solve various coding problems on platforms like *LeetCode*,
+HackerRank, or CodeSignal.
+** Focus on algorithms and data structures commonly used in interviews,
+such as arrays, linked lists, trees, graphs, and dynamic programming.
+** Practice solving problems under time constraints to simulate the
+interview environment.
+* Study System Design Principles:
+** Understand the principles of scalable system design, including load
+balancing, caching, sharding, and database design.
+** Study common architectural patterns like microservices, event-driven
+architecture, and distributed systems.
+** Familiarize yourself with technologies used in scalable systems, such
+as message queues, caching systems, and distributed databases.
+* Schedule Mock Interviews:
+** Find a study partner or join a coding interview preparation group to
+conduct mock interviews.
+** Simulate real interview scenarios by solving problems and explaining
+your thought process aloud.
+** Seek feedback on your problem-solving approach, coding style, and
+communication skills.
+* Showcase Past Work and Achievements:
+** Prepare to discuss your past projects, highlighting any significant
+challenges, solutions, and outcomes.
+** Emphasize your *problem-solving skills*, ability to work in a team,
+and any leadership or mentorship experiences.
+** Demonstrate your understanding of software development best
+practices, code quality, and testing.
+* Stay Updated with Industry Trends:
+** Follow industry blogs, forums, and social media channels to stay
+informed about the latest trends, technologies, and frameworks.
+** Keep up-to-date with advancements in programming languages,
+libraries, and tools relevant to the position you are applying for.
+** Stay informed about current topics in software engineering, such as
+cloud computing, machine learning, and cybersecurity.
+
+Remember, interview preparation is an ongoing process. Dedicate regular
+time to practice coding problems, review concepts, and stay updated with
+industry trends to ensure you are well-prepared for your coding
+interview.
+
+=== Questions to Ask for a Problem
+
+When approaching a problem during a coding interview, it's essential to
+ask clarifying questions to fully understand the problem and gather any
+additional information that may help find a solution. Here are some key
+questions to ask:
+
+* Input and Output:
+** What is the input format? Is it a single value, a list, or a data
+structure like a tree or graph?
+** What is the expected output format? Does it need to be returned as a
+specific data structure or in a particular order?
+** Are there any constraints on the input, such as size limits or
+allowed data types?
+* Problem Constraints:
+** Are there any specific runtime or space complexity requirements?
+** Is the input always valid and within certain bounds?
+** Are there any edge cases or special scenarios that need to be
+handled?
+* Problem Clarification:
+** Can you provide an example input and its corresponding expected
+output?
+** Are there any specific rules or constraints related to the problem
+domain?
+** Can the input contain duplicates, and if so, how should they be
+handled?
+** Are there any specific data structures or algorithms that should be
+utilized or avoided?
+* Problem Scope and Extensibility:
+** Is this a standalone problem, or does it have any relation to a
+larger system or domain?
+** Are there any potential future enhancements or considerations that
+should be considered?
+* Test Cases and Validations:
+** What kind of test cases should the solution cover?
+** Are there any specific edge cases or tricky scenarios that should be
+tested?
+** How should the solution handle invalid or unexpected input?
+* Time and Space Complexity Considerations:
+** Are there any performance requirements that need to be optimized?
+** Are there any limitations on memory usage or any specific space
+complexity requirements?
+
+Remember, asking these questions not only helps you clarify the problem
+but also demonstrates your problem-solving approach and communication
+skills to the interviewer.
