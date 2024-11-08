@@ -1,0 +1,3 @@
+image:media/image1.png[media/image1,width=624,height=312]
+
+*https://replit.com/@rohitbhardwaj/Recursion-Problems#Factorial.java*

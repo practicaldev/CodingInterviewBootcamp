@@ -1,0 +1,186 @@
+#344 https://leetcode.com/problems/reverse-string[Reverse String]
+
+#412 https://leetcode.com/problems/fizz-buzz[Fizz Buzz]
+
+#136 https://leetcode.com/problems/single-number[Single Number]
+
+#104 https://leetcode.com/problems/maximum-depth-of-binary-tree[Maximum
+Depth of Binary Tree]
+
+#283 https://leetcode.com/problems/move-zeroes[Move Zeroes]
+
+#371 https://leetcode.com/problems/sum-of-two-integers[Sum of Two
+Integers]
+
+#206 https://leetcode.com/problems/reverse-linked-list[Reverse Linked
+List]
+
+#171 https://leetcode.com/problems/excel-sheet-column-number[Excel Sheet
+Column Number]
+
+#169 https://leetcode.com/problems/majority-element[Majority Element]
+
+#13 https://leetcode.com/problems/roman-to-integer[Roman to Integer]
+
+#237 https://leetcode.com/problems/delete-node-in-a-linked-list[Delete
+Node in a Linked List]
+
+#122
+https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii[Best
+Time to Buy and Sell Stock II]
+
+#242 https://leetcode.com/problems/valid-anagram[Valid Anagram]
+
+#217 https://leetcode.com/problems/contains-duplicate[Contains
+Duplicate]
+
+#387
+https://leetcode.com/problems/first-unique-character-in-a-string[First
+Unique Character in a String]
+
+#108
+https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree[Convert
+Sorted Array to Binary Search Tree]
+
+#268 https://leetcode.com/problems/missing-number[Missing Number]
+
+#350
+https://leetcode.com/problems/intersection-of-two-arrays-ii[Intersection
+of Two Arrays II]
+
+#121 https://leetcode.com/problems/best-time-to-buy-and-sell-stock[Best
+Time to Buy and Sell Stock]
+
+#21 https://leetcode.com/problems/merge-two-sorted-lists[Merge Two
+Sorted Lists]
+
+#202 https://leetcode.com/problems/happy-number[Happy Number]
+
+#118 https://leetcode.com/problems/pascals-triangle[Pascal's Triangle]
+
+#70 https://leetcode.com/problems/climbing-stairs[Climbing Stairs]
+
+#101 https://leetcode.com/problems/symmetric-tree[Symmetric Tree]
+
+#53 https://leetcode.com/problems/maximum-subarray[Maximum Subarray]
+
+#326 https://leetcode.com/problems/power-of-three[Power of Three]
+
+#191 https://leetcode.com/problems/number-of-1-bits[Number of 1 Bits]
+
+#198 https://leetcode.com/problems/house-robber[House Robber]
+
+#66 https://leetcode.com/problems/plus-one[Plus One]
+
+#1 https://leetcode.com/problems/two-sum[Two Sum]
+
+#38 https://leetcode.com/problems/count-and-say[Count and Say]
+
+#26
+https://leetcode.com/problems/remove-duplicates-from-sorted-array[Remove
+Duplicates from Sorted Array]
+
+#172 https://leetcode.com/problems/factorial-trailing-zeroes[Factorial
+Trailing Zeroes]
+
+#20 https://leetcode.com/problems/valid-parentheses[Valid Parentheses]
+
+#141 https://leetcode.com/problems/linked-list-cycle[Linked List Cycle]
+
+#234 https://leetcode.com/problems/palindrome-linked-list[Palindrome
+Linked List]
+
+#88 https://leetcode.com/problems/merge-sorted-array[Merge Sorted Array]
+
+#155 https://leetcode.com/problems/min-stack[Min Stack]
+
+#14 https://leetcode.com/problems/longest-common-prefix[Longest Common
+Prefix]
+
+#160
+https://leetcode.com/problems/intersection-of-two-linked-lists[Intersection
+of Two Linked Lists]
+
+#28 https://leetcode.com/problems/implement-strstr[Implement strStr()]
+
+#69 https://leetcode.com/problems/sqrtx[Sqrt(x)]
+
+#190 https://leetcode.com/problems/reverse-bits[Reverse Bits]
+
+#125 https://leetcode.com/problems/valid-palindrome[Valid Palindrome]
+
+#189 https://leetcode.com/problems/rotate-array[Rotate Array]
+
+#204 https://leetcode.com/problems/count-primes[Count Primes]
+
+#7 https://leetcode.com/problems/reverse-integer[Reverse Integer]
+
+#94 https://leetcode.com/problems/binary-tree-inorder-traversal[Binary
+Tree Inorder Traversal]
+
+Amazon
+
+*1.*
+https://www.glassdoor.ca/Interview/Amazon-Software-Development-Engineer-Interview-Questions-EI_IE6036.0,6_KO7,36.htm[Past
+Interview Questions]
+
+*2.* _From Leetcode_:
+
+#1 https://leetcode.com/problems/two-sum[Two Sum]
+
+#2 https://leetcode.com/problems/add-two-numbers[Add Two Numbers]
+
+#3
+https://leetcode.com/problems/longest-substring-without-repeating-characters[Longest
+Substring Without Repeating Characters]
+
+#200 https://leetcode.com/problems/number-of-islands[Number of Islands]
+
+#20 https://leetcode.com/problems/valid-parentheses[Valid Parentheses]
+
+#5 https://leetcode.com/problems/longest-palindromic-substring[Longest
+Palindromic Substring]
+
+#138 https://leetcode.com/problems/copy-list-with-random-pointer[Copy
+List with Random Pointer]
+
+#121 https://leetcode.com/problems/best-time-to-buy-and-sell-stock[Best
+Time to Buy and Sell Stock]
+
+#21 https://leetcode.com/problems/merge-two-sorted-lists[Merge Two
+Sorted Lists]
+
+Facebook
+
+#1 https://leetcode.com/problems/two-sum[Two Sum]
+
+#200 https://leetcode.com/problems/number-of-islands[Number of Islands]
+
+#20 https://leetcode.com/problems/valid-parentheses[Valid Parentheses]
+
+#121 https://leetcode.com/problems/best-time-to-buy-and-sell-stock[Best
+Time to Buy and Sell Stock]
+
+#56 https://leetcode.com/problems/merge-intervals[Merge Intervals]
+
+#206 https://leetcode.com/problems/reverse-linked-list[Reverse Linked
+List]
+
+Google
+
+#155 https://leetcode.com/problems/min-stack[Min Stack]
+
+#200 https://leetcode.com/problems/number-of-islands[Number of Islands]
+
+#20 https://leetcode.com/problems/valid-parentheses[Valid Parentheses]
+
+#42 https://leetcode.com/problems/trapping-rain-water[Trapping Rain
+Water]
+
+#56 https://leetcode.com/problems/merge-intervals[Merge Intervals]
+
+#681 https://leetcode.com/problems/next-closest-time[Next Closest Time]
+
+#139 https://leetcode.com/problems/word-break[Word Break]
+
+#31 https://leetcode.com/problems/next-permutation[Next Permutation]

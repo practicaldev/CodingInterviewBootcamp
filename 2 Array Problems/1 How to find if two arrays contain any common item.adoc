@@ -1,0 +1,9 @@
+== How to find if two arrays contain any common item?
+
+=== Assignment
+
+Solve this problem
+
+=== Solution 
+
+https://replit.com/@rohitbhardwaj/Arrays-Problems#Main.java

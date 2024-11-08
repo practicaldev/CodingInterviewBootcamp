@@ -1,0 +1,30 @@
+== Top Array Problems
+
+* Two Sum: Given an array of integers and a target value, find two
+numbers in the array that sum up to the target.
+* Container With Most Water: Given an array of non-negative integers
+representing the heights of vertical lines, determine the maximum area
+of water that can be trapped between any two lines.
+* Maximum Subarray: Find the contiguous subarray within an array that
+has the largest sum. This problem is also known as the Kadane's
+algorithm.
+* Product of Array Except for Self: Given an array of integers, return
+an array where each element is the product of all the elements in the
+original array except itself. The division is not allowed.
+* Rotate Array: Rotate an array in-place by a given number of steps to
+the right.
+* Merge Intervals: Given a collection of intervals, merge overlapping
+intervals.
+* Spiral Matrix: Given a matrix, return all elements of the matrix in
+spiral order.
+* Missing Number: Given an array containing n distinct numbers taken
+from 0 to n, find the missing number.
+* Trapping Rain Water: Given an array of non-negative integers
+representing an elevation map, compute how much water it can trap after
+raining.
+* Product of Two Numbers: Given an array of integers and a target value,
+find two numbers in the array whose product equals the target.
+* Plus One: Given a non-empty array of digits representing a
+non-negative integer, increment the integer by one.
+* Valid Sudoku: Determine if a 9x9 Sudoku board is valid, considering
+the rules of Sudoku.

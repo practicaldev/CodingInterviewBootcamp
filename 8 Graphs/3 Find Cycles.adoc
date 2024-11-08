@@ -1,0 +1,3 @@
+image:media/image1.png[media/image1,width=624,height=468]
+
+*https://replit.com/@rohitbhardwaj/Graph-Problems#Cycle.java*

@@ -1,0 +1,5 @@
+=== Explore different sorts
+
+https://visualgo.net/en/sorting?slide=1[[.underline]#https://visualgo.net/en/sorting?slide=1#]
+
+image:media/image1.png[media/image1,width=624,height=357]

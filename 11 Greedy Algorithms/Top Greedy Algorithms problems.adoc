@@ -1,0 +1,34 @@
+Coin Change: Given a target amount and a set of coin denominations, find
+the minimum number of coins required to make up the target amount.
+
+Activity Selection: Given a list of activities with their start and end
+times, find the maximum number of activities that can be performed
+without overlapping.
+
+Interval Scheduling: Given a set of intervals, find the maximum number
+of non-overlapping intervals that can be selected.
+
+Fractional Knapsack: Given a set of items with their weights and values,
+determine the maximum value that can be obtained by selecting a fraction
+of each item to fit in a knapsack with a limited weight capacity.
+
+Minimum Spanning Tree: Given a connected, undirected graph, find a
+spanning tree with the minimum total weight.
+
+Huffman Coding: Given a set of characters and their frequencies,
+construct an optimal prefix-free binary code such that the total encoded
+length is minimized.
+
+Job Sequencing with Deadlines: Given a set of jobs with their deadlines
+and profits, find the maximum profit that can be obtained by scheduling
+the jobs within their deadlines.
+
+Dijkstra's Algorithm: Given a weighted graph and a source vertex, find
+the shortest paths from the source vertex to all other vertices.
+
+Prim's Algorithm: Given a connected, undirected graph with weighted
+edges, find a minimum spanning tree starting from an arbitrary vertex.
+
+Gas Station: Given an array of gas stations with their respective gas
+amounts and distances between them, find the starting gas station from
+which you can travel around the circuit once without running out of gas.

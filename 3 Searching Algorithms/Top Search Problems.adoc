@@ -1,0 +1,24 @@
+* Binary Search: Given a sorted array and a target value, find the index
+of the target in the array using the binary search algorithm.
+* Search in Rotated Sorted Array: Given a rotated sorted array, search
+for a target value in the array. The array might contain duplicates.
+* First Bad Version: Given a range of versions from 1 to n and a
+function isBadVersion(version), find the first bad version using binary
+search.
+* Find Peak Element: Given an array that is sorted in ascending order
+and then rotated, find the peak element in the array.
+* Substring with Concatenation of All Words: Given a string and a list
+of words, find all starting indices of substrings in the string that are
+a concatenation of all the words.
+* Search a 2D Matrix: Given a 2D matrix sorted by row and column,
+determine if a target value exists in the matrix.
+* Kth Smallest Element in a Sorted Matrix: Given an n x n matrix, where
+each row and column is sorted in ascending order, find the kth smallest
+element in the matrix.
+* Implement Trie (Prefix Tree): Design and implement a data structure
+called Trie that supports word insertion and search operations.
+* Find Minimum in Rotated Sorted Array: Given a rotated sorted array,
+find the minimum element in the array.
+* The intersection of Two Arrays: Given two arrays, find their
+intersection (elements that appear in both arrays) using a set or other
+efficient approaches.

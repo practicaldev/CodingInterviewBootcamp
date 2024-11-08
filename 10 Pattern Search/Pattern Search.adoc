@@ -1,0 +1,3 @@
+image:media/image1.png[media/image1,width=624,height=468]
+
+http://jovilab.sinaapp.com/visualization/algorithms/strings/kmp[[.underline]#http://jovilab.sinaapp.com/visualization/algorithms/strings/kmp#]

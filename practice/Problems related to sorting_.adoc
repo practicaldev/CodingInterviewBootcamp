@@ -1,0 +1,12 @@
+[arabic]
+. Given an array of integers, and a number K, print all pairs in the
+array whose sum is equal to K.
+. Given an array and a value, find if there is a triplet in the array
+whose sum is equal to the given value.
+. Check for pair with a given sum in Binary Search Tree
+. Given two unsorted arrays(elements in every array are distinct), find
+the intersection of two arrays
+. Given an unsorted array of integers, find the length of the longest
+consecutive sequence.
+. Given two integer array A[] and B[] of size m and n(n <= m)
+respectively. We have to check whether B[] is a subset of A[] or not.

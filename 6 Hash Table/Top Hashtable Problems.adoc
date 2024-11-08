@@ -1,0 +1,42 @@
+Two Sum: Given an array of integers, find two numbers that add up to a
+specific target.
+
+Longest Substring Without Repeating Characters: Given a string, find the
+length of the longest substring without repeating characters.
+
+Group Anagrams: Given an array of strings, group the anagrams together.
+
+The Intersection of Two Arrays: Given two arrays, write a function to
+compute their intersection.
+
+Valid Sudoku: Determine if a 9x9 Sudoku board is valid. Only the filled
+cells need to be validated according to the Sudoku rules.
+
+Isomorphic Strings: Given two strings, determine if they are isomorphic.
+Two strings are isomorphic if the characters in one string can be
+replaced to get the other string.
+
+Palindrome Permutation: Given a string, determine if a permutation of
+the string could form a palindrome.
+
+Subarray Sum Equals K: Given an array of integers and an integer k, find
+the total number of continuous subarrays whose sum equals k.
+
+First Unique Character in a String: Given a string, find the first
+non-repeating character and return its index.
+
+Word Pattern: Given a pattern and a string, determine if the string
+follows the same pattern.
+
+Longest Substring Without Repeating Characters: Given a string, find the
+length of the longest substring without repeating characters.
+
+Most Frequent Element: Given an array, find the most frequent element(s)
+in the array.
+
+Find the Difference: Given two strings, where one string is a shuffled
+version of the other with one extra character added, find the extra
+character.
+
+Longest Subarray with Sum K: Given an array of integers and a target
+sum, find the longest subarray with a sum equal to the target.

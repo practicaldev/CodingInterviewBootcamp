@@ -1,0 +1,5 @@
+=== Assignment: 
+
+Explore AVL Trees
+
+image:media/image1.png[media/image1,width=624,height=280]

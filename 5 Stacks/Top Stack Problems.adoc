@@ -1,0 +1,29 @@
+Valid Parentheses: Given a string containing just the characters '(',
+')', '\{', '}', '[' and ']', determine if the input string is valid.
+
+Min Stack: Design a stack that supports push, pop, top, and retrieving
+the minimum element in constant time.
+
+Evaluate Reverse Polish Notation: Evaluate the value of an arithmetic
+expression in Reverse Polish Notation (postfix notation).
+
+Implement Queue using Stacks: Implement a queue using two stacks.
+
+Longest Valid Parentheses: Given a string containing just the characters
+'(' and ')', find the length of the longest valid (well-formed)
+parentheses substring.
+
+Largest Rectangle in Histogram: Given n non-negative integers
+representing the histogram's bar height where the width of each bar is
+1, find the area of the largest rectangle in the histogram.
+
+Implement Stack using Queues: Implement a stack using two queues.
+
+Decode String: Given an encoded string, return its decoded string.
+
+Next Greater Element: Given an array, find the next greater element for
+every element in the array.
+
+Trapping Rain Water: Given n non-negative integers representing an
+elevation map where the width of each bar is 1, compute how much water
+it can trap after raining.

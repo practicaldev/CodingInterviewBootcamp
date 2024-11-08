@@ -1,0 +1,7 @@
+image:media/image2.png[media/image2,width=624,height=273]
+
+image:media/image1.png[media/image1,width=624,height=673]
+
+=== Solution
+
+https://replit.com/@rohitbhardwaj/Stack-problems#BalancedBrackets.java[[.underline]#https://replit.com/@rohitbhardwaj/Stack-problems#BalancedBrackets.java#]

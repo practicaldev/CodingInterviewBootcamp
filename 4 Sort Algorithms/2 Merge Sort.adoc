@@ -1,0 +1,3 @@
+=== Understand how Merge Sort works
+
+image:media/image1.png[media/image1,width=624,height=601]

@@ -1,0 +1,28 @@
+== Binary Search
+
+Understand Binary Search
+
+image:media/image1.png[media/image1,width=624,height=516]
+
+=== Problem: To find if n is a square of an integer
+
+if(mid*mid==x):
+
+return mid
+
+else if (mid*mid>x):
+
+binary_search(left,mid-1)
+
+else:
+
+binary_search(mid+1,right)
+
+=== Other Problems to try:
+
+Find the frequency of a given target value in an array of integers
+
+Find the peak of an array that increases and then decreases
+
+A sorted array is rotated n times. Search for a target value in the
+array.

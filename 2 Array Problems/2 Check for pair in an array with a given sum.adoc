@@ -1,0 +1,15 @@
+== Check for pair in an array with a given sum
+
+=== Assignment 
+
+​​Input : arr[] = \{1, 5, 7, 9},
+
+sum = 6
+
+Output : true
+
+=== Solve the problem 
+
+=== Solution
+
+https://replit.com/@rohitbhardwaj/Arrays-Problems#SumExistInArrayHashSet.java[[.underline]#https://replit.com/@rohitbhardwaj/Arrays-Problems#SumExistInArrayHashSet.java#]

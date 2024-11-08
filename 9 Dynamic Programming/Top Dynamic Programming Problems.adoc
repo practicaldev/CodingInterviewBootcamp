@@ -1,0 +1,34 @@
+Fibonacci Sequence: Compute the nth Fibonacci number using dynamic
+programming techniques.
+
+Climbing Stairs: Given a staircase with n steps, determine the number of
+distinct ways to reach the top by either climbing 1 or 2 steps at a
+time.
+
+Longest Increasing Subsequence: Find the length of the longest
+subsequence in an array that is in increasing order.
+
+Knapsack Problem: Given a set of items with weights and values,
+determine the maximum value that can be obtained by selecting a subset
+of items with a total weight not exceeding a given limit.
+
+Coin Change: Given a set of coin denominations and a target amount, find
+the minimum number of coins needed to make up that amount.
+
+Longest Common Subsequence: Find the length of the longest subsequence
+that is common to two given strings.
+
+Maximum Subarray Sum: Find the contiguous subarray within an array that
+has the largest sum.
+
+Edit Distance: Given two strings, find the minimum number of operations
+(insertions, deletions, and substitutions) required to transform one
+string into the other.
+
+Rod Cutting: Given a rod of length n and a price list for different
+lengths, determine the maximum value that can be obtained by cutting the
+rod into smaller pieces and selling them.
+
+Matrix Chain Multiplication: Given a sequence of matrices, determine the
+optimal parenthesization to minimize the number of multiplications
+needed.

@@ -1,0 +1,33 @@
+String Matching: Given a text string and a pattern string, determine
+whether the pattern occurs within the text and return its starting
+index.
+
+Regular Expression Matching: Given a text string and a regular
+expression pattern, determine whether the pattern matches the entire
+text or not.
+
+Word Search: Given a 2D grid of characters and a word, determine whether
+the word can be formed by following adjacent cells (horizontal or
+vertical) in the grid.
+
+Subarray Sum Equals K: Given an array of integers and a target sum, find
+all subarrays whose sum is equal to the target.
+
+Pattern Matching in Binary Trees: Given a binary tree and a pattern,
+determine whether the pattern matches any substructure within the tree.
+
+Anagram Substring Search: Given a text string and a pattern string, find
+all occurrences of anagrams of the pattern within the text.
+
+Wildcard Pattern Matching: Given a text string and a wildcard pattern
+containing '?' and '*', determine whether the pattern matches the entire
+text or not.
+
+Longest Common Prefix: Given an array of strings, find the longest
+common prefix among them.
+
+Pattern Matching in Graphs: Given a graph and a pattern, find all
+occurrences of the pattern as a subgraph within the given graph.
+
+Longest Palindromic Substring: Given a string, find the longest
+substring that is a palindrome.

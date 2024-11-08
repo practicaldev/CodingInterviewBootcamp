@@ -1,0 +1,12 @@
+=== Assignment
+
+Explore BST:
+https://visualgo.net/en/bst[[.underline]#https://visualgo.net/en/bst#]
+
+image:media/image1.png[media/image1,width=624,height=249]
+
+Solution:
+
+https://replit.com/@rohitbhardwaj/Binary-Tree-Problems#BinarySearchTree.java[[.underline]#https://replit.com/@rohitbhardwaj/Binary-Tree-Problems#BinarySearchTree.java#]
+
+image:media/image2.png[media/image2,width=624,height=468]
